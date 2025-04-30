@@ -1,0 +1,6 @@
+torch
+torchvision
+pyspark
+kaggle
+numpy
+Pillow
